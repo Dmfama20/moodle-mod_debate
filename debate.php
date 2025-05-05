@@ -24,7 +24,7 @@
 
 require(__DIR__ . '/../../config.php');
 require_once(__DIR__ . '/lib.php');
-require_once(__DIR__ . '/../../lib/outputcomponents.php');
+// require_once(__DIR__ . '/../../lib/outputcomponents.php');
 global $DB, $OUTPUT, $PAGE, $USER;
 use mod_debate\debate_constants;
 
